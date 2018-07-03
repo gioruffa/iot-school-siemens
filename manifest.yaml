@@ -1,0 +1,3 @@
+applications:
+- name: eit-iot-team3-patricia-giorgio-shreyas
+  command: node index.js
