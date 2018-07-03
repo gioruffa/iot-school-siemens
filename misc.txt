@@ -1,0 +1,35 @@
+gio@zaphod:~/UniData/Summerschool/siemens/tutorial$ cf login -sso -a https://api.cf.eu1.mindsphere.io
+Endpoint API: https://api.cf.eu1.mindsphere.io
+
+Temporary Authentication Code ( Get one at https://login.cf.eu1.mindsphere.io/passcode )> 
+Autenticazione in corso...
+OK
+
+Organizzazione di destinazione devtum
+
+Spazio di destinazione eit.iot.ss.3
+
+
+                  
+Endpoint API:     https://api.cf.eu1.mindsphere.io (versione API: 2.109.0)
+Utente:           eit.iot.ss.3@gmail.com
+Organizzazione:   devtum
+Spazio:           eit.iot.ss.3
+
+
+mkdir iot-tutorial && cd iot-tutorial
+
+npm init
+
+create an index.js file
+
+open the folder 
+
+in the file : console.log("hello world")
+
+node index.js
+
+create a ".cfignore" file with contentL
+node_modules
+
+
